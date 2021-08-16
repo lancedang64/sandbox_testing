@@ -1,0 +1,16 @@
+{
+	"name": "sandbox_testing",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"test": "jest",
+		"watch": "jest --watch"
+	},
+	"author": "lance_dang <lancedang64@gmail.com>",
+	"license": "ISC",
+	"devDependencies": {
+		"@babel/preset-env": "^7.15.0",
+		"jest": "^27.0.6"
+	}
+}
